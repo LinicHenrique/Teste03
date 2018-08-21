@@ -1,7 +1,7 @@
 # Lista de jogos
 
-# Xadres
+# God of War
 
-# Truco
+# Fifa 2018
 
-# Super trunfo
+# Need of Speed
