@@ -1,5 +1,7 @@
 # Lista de jogos
 
-# Jogos preferidos 1
+# Xadres
 
-# Jogos preferidos 2
+# Truco
+
+# Super trunfo
